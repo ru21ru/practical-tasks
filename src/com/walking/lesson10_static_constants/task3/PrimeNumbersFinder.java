@@ -1,4 +1,4 @@
-package lesson10_static_constants.task3;
+package com.walking.lesson10_static_constants.task3;
 
 public class PrimeNumbersFinder {
 //    Вынося массив как константу уровня объекта,

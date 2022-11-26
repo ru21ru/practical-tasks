@@ -1,4 +1,4 @@
-package lesson10_static_constants.task2;
+package com.walking.lesson10_static_constants.task2;
 
 public class Counter {
 //    Обеспечиваем неизменность названия, используя final
